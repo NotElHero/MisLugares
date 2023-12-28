@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Mis Lugares</string>
+    <string name="ratingBar" />
+    <string-array name="tiposLugares">
+        <item>Selecciona un tipo...</item>
+        <item>Educacion</item>
+        <item>Restauracion</item>
+        <item>CC</item>
+        <item>Otro</item>
+    </string-array>
+</resources>
